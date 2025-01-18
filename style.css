@@ -30,6 +30,7 @@ input{
     padding: 14px;
     border-radius: 5px;
     border: 1px solid #3e85f7;
+    width: 200px;
 }
 #answer{
     display: flex;
